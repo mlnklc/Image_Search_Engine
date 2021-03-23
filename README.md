@@ -1,0 +1,2 @@
+# Image_Search_Engine
+This project provides images that are related to the search keys entered by the user, and that are trained with deep learning algorithms, to be displayed. It automatically scrapes images from internet sources and descriptions of the images are created thanks to the trained model. It stores these images in the database with captions. In summary, the project is a image search engine created using deep learning algorithms.
